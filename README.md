@@ -2,7 +2,7 @@
 <br/>
 
 ## Important Link:
-### Github Link:
+### Github Link:https://github.com/ankitsharma21598/Polling-System-Api.git
 ### Hosting Link:https://documenter.getpostman.com/view/28236734/2s93z9c2m2
 
 <br/>
@@ -48,7 +48,7 @@ using Express, Nodejs, MongoDB.
 2. Change the current working directory to the location where you want the cloned directory.
 
    ```
-   $ git clone 
+   $ git clone https://github.com/ankitsharma21598/Polling-System-Api.git
 
    ```
 
