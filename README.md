@@ -1,4 +1,4 @@
-# Api-Polling-System
+# Polling-System-Api
 <br/>
 
 ## Important Link:
